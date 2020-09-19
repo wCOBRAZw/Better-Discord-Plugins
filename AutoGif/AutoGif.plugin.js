@@ -183,8 +183,7 @@ var autoGif = function () {};
         processAvatars(mutation);
     };
 
-    autoGif.prototype.getSettingsPanel = function () {
-        return "";
+    
     };
 
     autoGif.prototype.getName = function () {
@@ -196,11 +195,11 @@ var autoGif = function () {};
     };
 
     autoGif.prototype.getVersion = function () {
-        return "1.1.0";
+        return "1.0";
     };
 
     autoGif.prototype.getAuthor = function () {
-        return "noodlebox";
+        return "wCOBRAZw";
     };
 })();
 
