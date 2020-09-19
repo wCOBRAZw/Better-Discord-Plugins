@@ -3,4 +3,4 @@ My own better discord plugins.
 
 Plugins:
 
-AutoGif, a plugin that reproduces the gifs without having to hover over them.
+AutoGif, a plugin that reproduces the gifs without having to hover over them, made by wCOBRAZw and tested by Gravity.
