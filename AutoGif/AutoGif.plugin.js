@@ -181,7 +181,7 @@ var autoGif = function () {};
     autoGif.prototype.observer = function (mutation) {
         processAccessories(mutation);
         processAvatars(mutation);
-   
+    };
 
     autoGif.prototype.getName = function () {
         return "Autogif";
